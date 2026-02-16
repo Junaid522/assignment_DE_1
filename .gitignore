@@ -26,7 +26,6 @@ auth.json
 secrets.json
 
 # --- IDE & Editors ---
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -41,3 +40,7 @@ yarn-debug.log*
 yarn-error.log*
 tmp/
 temp/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
