@@ -122,5 +122,6 @@ data/cleaned/
 
 ## Author
 
-[Your Name]
+[Junaid Tariq]
 AI 620 – Data Engineering for AI Systems
+LUMS Lahore, Pakistan
